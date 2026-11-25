@@ -1,5 +1,5 @@
 # 19xx - M146 - DOC - wbskit2.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -51,7 +51,7 @@ Slur
 
 ```json
 {
- "file": "Modules/UNSORTED/M146/19xx - M146 - DOC - wbskit2.jpg",
+ "file": "Modules/UNSORTED/M146/MANUALS/19xx - M146 - DOC - wbskit2.jpg",
  "sha256": "946315297671f03e9ad28232e2f48b1222a11739f567bbde50a403856b6171f1",
  "kind": "doc",
  "models": [
