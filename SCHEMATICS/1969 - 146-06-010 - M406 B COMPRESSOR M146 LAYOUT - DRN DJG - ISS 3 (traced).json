@@ -1,0 +1,83 @@
+{
+ "drawing": "Modules/UNSORTED/M146/SCHEMATICS/1969 - 146-06-010 - M406 B COMPRESSOR M146 LAYOUT - DRN DJG - ISS 3.jpg",
+ "version": 1,
+ "trace": "_traces/638da9a90442d9dd.svg",
+ "sheet": {
+  "number": "B 146-06-010",
+  "title": "M406 B COMPRESSOR / M146 LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 270,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 20.1, 428.8, 305.3],
+ "outlines": {
+  "line": {"rings": 1152, "straight": {"n": 12056, "mm": 14863.3}, "curved": {"n": 2982, "mm": 3014.9}},
+  "text": {"rings": 253, "straight": {"n": 2345, "mm": 2426.9}, "curved": {"n": 677, "mm": 781.7}}
+ },
+ "circles": [
+  {"c": [57.6, 157.8], "r": 10.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [145.3, 200.0], "r": 7.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [86.7, 208.8], "r": 7.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [87.1, 189.5], "r": 7.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [262.5, 164.4], "r": 7.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [145.3, 200.0], "r": 6.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [54.4, 181.3], "r": 5.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [105.7, 162.5], "r": 4.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [413.3, 55.2], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [198.4, 30.2], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [63.0, 198.8, 67.4, 210.1], "w": 4.3, "h": 11.2, "from": "ring"},
+  {"mm": [73.2, 198.8, 77.7, 210.1], "w": 4.5, "h": 11.2, "from": "ring"},
+  {"mm": [277.9, 200.1, 280.0, 209.9], "w": 2.2, "h": 9.7, "from": "ring"},
+  {"mm": [116.2, 193.7, 120.7, 204.3], "w": 4.5, "h": 10.6, "from": "ring"},
+  {"mm": [311.1, 190.6, 315.6, 203.2], "w": 4.5, "h": 12.6, "from": "ring"},
+  {"mm": [258.0, 183.9, 263.2, 186.8], "w": 5.2, "h": 2.8, "from": "ring"},
+  {"mm": [73.0, 174.7, 84.6, 178.8], "w": 11.7, "h": 4.1, "from": "ring"},
+  {"mm": [278.0, 164.7, 280.2, 174.9], "w": 2.2, "h": 10.1, "from": "ring"},
+  {"mm": [317.4, 161.9, 322.2, 171.9], "w": 4.8, "h": 9.9, "from": "ring"},
+  {"mm": [76.9, 161.7, 81.0, 168.2], "w": 4.1, "h": 6.5, "from": "ring"},
+  {"mm": [82.0, 157.2, 86.8, 168.2], "w": 4.7, "h": 11.0, "from": "ring"},
+  {"mm": [151.6, 157.4, 154.2, 167.8], "w": 2.6, "h": 10.4, "from": "ring"},
+  {"mm": [93.7, 163.9, 96.3, 166.5], "w": 2.6, "h": 2.6, "from": "ring"},
+  {"mm": [83.1, 163.7, 85.5, 166.2], "w": 2.4, "h": 2.6, "from": "ring"},
+  {"mm": [257.9, 149.6, 268.8, 152.6], "w": 10.8, "h": 3.0, "from": "ring"},
+  {"mm": [191.2, 24.0, 428.8, 76.0], "w": 237.5, "h": 52.0, "from": "ring"},
+  {"mm": [245.3, 54.0, 323.2, 72.3], "w": 77.9, "h": 18.4, "from": "ring"},
+  {"mm": [207.0, 63.2, 244.6, 72.1], "w": 37.6, "h": 8.9, "from": "ring"},
+  {"mm": [192.8, 63.3, 206.0, 71.9], "w": 13.2, "h": 8.6, "from": "ring"},
+  {"mm": [207.0, 53.9, 244.8, 62.8], "w": 37.8, "h": 8.9, "from": "ring"},
+  {"mm": [192.8, 53.8, 206.0, 62.6], "w": 13.2, "h": 8.9, "from": "ring"},
+  {"mm": [245.2, 35.2, 323.2, 54.0], "w": 78.0, "h": 18.8, "from": "ring"},
+  {"mm": [207.3, 44.2, 244.9, 53.8], "w": 37.6, "h": 9.6, "from": "ring"},
+  {"mm": [192.8, 44.3, 206.0, 53.6], "w": 13.2, "h": 9.3, "from": "ring"},
+  {"mm": [193.0, 35.0, 206.2, 43.9], "w": 13.2, "h": 8.9, "from": "ring"},
+  {"mm": [207.3, 35.1, 244.8, 43.8], "w": 37.6, "h": 8.7, "from": "ring"},
+  {"mm": [337.6, 26.3, 405.5, 35.2], "w": 67.8, "h": 9.0, "from": "ring"},
+  {"mm": [207.3, 25.9, 323.4, 35.0], "w": 116.2, "h": 9.1, "from": "ring"},
+  {"mm": [324.5, 26.3, 337.3, 35.0], "w": 12.8, "h": 8.6, "from": "ring"},
+  {"mm": [193.0, 25.9, 206.2, 34.5], "w": 13.2, "h": 8.6, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [
+  {"c": [57.3, 204.7], "r": 1.2, "lines": 0},
+  {"c": [105.7, 201.3], "r": 0.6, "lines": 0},
+  {"c": [128.4, 199.0], "r": 1.2, "lines": 0},
+  {"c": [314.1, 196.0], "r": 0.9, "lines": 0},
+  {"c": [74.5, 159.9], "r": 0.7, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** component layout B 146-06-010, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 0–429 mm across, 20–305 mm up",
+  "- **Outlines:** line 1,152 rings, 12,056 straight (14,863 mm) / 2,982 curved (3,015 mm); text 253 rings, 2,345 straight (2,427 mm) / 677 curved (782 mm)",
+  "- **Circles and arcs:** 10 circles, 0 arcs; largest r 10.0 @ (57.6, 157.8), r 7.8 @ (145.3, 200.0), r 7.6 @ (86.7, 208.8), r 7.6 @ (87.1, 189.5)",
+  "- **Closed boxes:** 30",
+  "- **Dots (junctions):** 5"
+ ]
+}
