@@ -32,7 +32,7 @@ Wiki page: [M146](../../../../PAGES/M146.md)
 - **Dots (junctions):** 4
 - **Words (OCR):** 4 in 4 lines: 82 · 85 · 35 · 86
 
-Every curve, box, word and wire group: [1969 - 146-06-010 - M406 B COMPRESSOR M146 LAYOUT - DRN DJG - ISS 5 (traced).json](../SCHEMATICS/1969%20-%20146-06-010%20-%20M406%20B%20COMPRESSOR%20M146%20LAYOUT%20-%20DRN%20DJG%20-%20ISS%205%20(traced).json) (the CAD file: `1969 - 146-06-010 - M406 B COMPRESSOR M146 LAYOUT - DRN DJG - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1969 - 146-06-010 - M406 B COMPRESSOR M146 LAYOUT - DRN DJG - ISS 5 (traced).json](../SCHEMATICS/1969%20-%20146-06-010%20-%20M406%20B%20COMPRESSOR%20M146%20LAYOUT%20-%20DRN%20DJG%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1969 - 146-06-010 - M406 B COMPRESSOR M146 LAYOUT - DRN DJG - ISS 5 (traced).dxf`).
 
 ## Full text
 
