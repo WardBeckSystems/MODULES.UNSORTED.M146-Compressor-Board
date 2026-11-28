@@ -1,6 +1,6 @@
 # M146 Compressor Board · Dynamics
 
-Ward-Beck Systems M146, 1968|1. Wiki page: [M146 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M146.html)
+Ward-Beck Systems M146, 1968|1. Wiki page: [M146 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M146-Compressor-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|

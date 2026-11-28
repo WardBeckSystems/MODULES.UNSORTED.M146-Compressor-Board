@@ -1,5 +1,5 @@
 # 1969 - 146-06-010 - M406 B COMPRESSOR M146 LAYOUT - DRN DJG - ISS 5.jpg
-Wiki page: [M146](../../../../PAGES/M146.md)
+Wiki page: [M146](../)
 
 
 - **Year:** 1969 (title block date)
