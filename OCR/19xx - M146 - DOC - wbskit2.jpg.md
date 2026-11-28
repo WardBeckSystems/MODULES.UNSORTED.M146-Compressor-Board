@@ -51,7 +51,7 @@ Slur
 
 ```json
 {
- "file": "Modules/UNSORTED/M146/MANUALS/19xx - M146 - DOC - wbskit2.jpg",
+ "file": "Modules/DYNAMICS/M146/MANUALS/19xx - M146 - DOC - wbskit2.jpg",
  "sha256": "946315297671f03e9ad28232e2f48b1222a11739f567bbde50a403856b6171f1",
  "kind": "doc",
  "models": [
